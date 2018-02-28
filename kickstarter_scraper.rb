@@ -11,7 +11,7 @@ class KickstarterScraper
   def create_project_hash
   # write your code here
   end
-
-end
 binding.pry
+end
+
 create_project_hash
