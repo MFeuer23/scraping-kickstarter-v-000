@@ -13,3 +13,5 @@ class KickstarterScraper
   end
 
 end
+binding.pry
+create_project_hash
