@@ -2,7 +2,7 @@
 require 'nokogiri'
 require 'pry'
 
-class KickstarterScraper
+
   
   html = File.read('fixtures/kickstarter.html')
  
@@ -11,7 +11,7 @@ class KickstarterScraper
   def create_project_hash
   # write your code here
   end
-binding.pry
-end
+  binding.pry
+
 
 create_project_hash
